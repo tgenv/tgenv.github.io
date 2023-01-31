@@ -1,12 +1,11 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: TGENV - Terragrunt Versioning
+tagline: TGENV - Terragrunt Versioning
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+  The site for TGENV, made for Jekyll and GitHub pages websites
+baseurl: "/tgenv.github.io"
+url: "https://tgenv.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
@@ -64,7 +63,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Weyder Ferreira"
       layout: post
       image: https://via.placeholder.com/1200x800
       show_sidebar: true
